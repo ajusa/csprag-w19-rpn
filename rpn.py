@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import operator
+import readline
 
 class bcolors:
     HEADER = '\033[95m'
