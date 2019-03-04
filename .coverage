@@ -1,1 +1,1 @@
-!coverage.py: This is a private format, don't read it directly!{"lines": {"/home/ajusa/Documents/rpn/test_rpn.py": [1, 3, 5, 6, 9, 12, 15, 18], "/home/ajusa/Documents/rpn/rpn.py": [3, 7, 8, 9, 10, 11, 14, 31, 36]}}
+!coverage.py: This is a private format, don't read it directly!{"arcs": {"/home/ajusa/Documents/rpn/rpn.py": [[-1, 3], [3, 7], [7, 8], [8, 9], [9, 10], [10, 11], [11, 14], [14, 31], [31, 36], [36, -3]]}}
