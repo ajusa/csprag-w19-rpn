@@ -1,5 +1,9 @@
 language: python
 python:
   - "3.4"
+install:
+  - pip install codecov
+  - pip install coverage
 script:
   - python -m "unittest"
+  - codecov
